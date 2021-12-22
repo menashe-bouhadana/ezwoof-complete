@@ -1,0 +1,7 @@
+{
+    "name": "ezwoof",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

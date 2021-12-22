@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.ezwoof",
+    "appName": "ezwoof",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
